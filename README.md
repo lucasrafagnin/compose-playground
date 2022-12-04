@@ -5,5 +5,5 @@
 My compose playground, I'll test new compose apis, do some UI challenges and more.<br>
 </p>
 
-## Tech details 🧑‍🔬
+## UI Challenges 🧑‍🔬
 - [C6 Bank](https://github.com/lucasrafagnin/compose-playground/blob/master/app/src/main/java/com/rafagnin/playground/C6Bank.kt) - Inspired by C6Bank home page.
